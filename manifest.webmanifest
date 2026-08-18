@@ -1,0 +1,14 @@
+{
+  "name":"OSP Equipment Hire — Oscar Sound Production",
+  "short_name":"OSP Hire",
+  "description":"Equipment hire, PA packages and event production services from Oscar Sound Production.",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#080808",
+  "theme_color":"#f5b900",
+  "orientation":"portrait-primary",
+  "icons":[
+    {"src":"assets/osp-logo.png","sizes":"1254x1254","type":"image/png","purpose":"any maskable"}
+  ]
+}
